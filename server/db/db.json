@@ -1,1 +1,19 @@
-[]
+{
+  "cities" : [
+    {
+      "id" : "1",
+      "name" : "New York",
+      "timestamp": "2024-01-20T12:00:00Z" 
+    },
+    {
+      "id" : "2",
+      "name" : "London",
+      "timestamp" : "2024-01-20T12:05:00Z"
+    },
+    {
+      "id" : "3",
+      "name" : "Tokyo",
+      "timestamp" :  "2024-01-20T12:10:00Z"
+    }
+  ]
+}
